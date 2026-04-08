@@ -1,0 +1,4 @@
+---
+Checks: 'google-*,readability-*,bugprone-*,clang-analyzer-*'
+WarningsAsErrors: '*'
+FormatStyle: google
